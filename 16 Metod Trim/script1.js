@@ -44,7 +44,7 @@ function rememberMyFilms() {
 rememberMyFilms();
 
 
-/* function detectPersonalLevel() {
+function detectPersonalLevel() {
     if (personalMovieDB.count <= 10) {
         alert('prosmotreno dovolno malo filmov');    // 3 zadanie moy variant
     } else {
@@ -61,9 +61,9 @@ rememberMyFilms();
     
 }
 
-detectPersonalLevel(); */
+detectPersonalLevel();
 
-/* function showMyDB(hidden) {
+function showMyDB(hidden) {
     if (!hidden) {
         console.log(personalMovieDB);
     }
@@ -77,7 +77,7 @@ function writeYourGenres() {
     }
 }
 
-writeYourGenres(); */
+writeYourGenres();
 
 
 
@@ -107,8 +107,8 @@ ploKuba(5); */
         }
     }
 }
-getCoupeNumber(1.2);
- */                     
+getCoupeNumber(1.2); */
+                     
 
 
 
